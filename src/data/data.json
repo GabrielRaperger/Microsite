@@ -1,0 +1,40 @@
+{
+  "Header": {
+    "title": "Meeting Manager",
+    "paragraph": "Com o Meeting Manager pode gerir as suas reuniões de uma forma mais divertida e organizada."
+  },
+  "About": {
+    "paragraph": "O Meeting Manager é uma solução integrada de gestão e reserva de salas em espaços privados, para reuniões e outros eventos. A nossa solução é composta por uma página web e duas aplicações móveis que podem ser utilizados nos mais diversos dispositivos.",
+    "Why": [
+      "Maior acessibilidade",
+      "Maior produtividade",
+      "Maior segurança",
+      "Fácil de utilizar"
+    ],
+    "Why2": [
+      
+    ]
+  },
+  "Features": [
+    {
+      "icon": "fa fa-calendar",
+      "title": "Reservar salas",
+      "text": "Através do Meeting Manager, poderá reservar espaços a partir de qualquer lugar, por um determinado período de tempo, evitando assim aglumerações."
+    },
+    {
+      "icon": "fa fa-building",
+      "title": "Gestão de espaços",
+      "text": "O Meeting Manager permite às empresas e instituições efetuar uma gestão mais automatizada dos seus espaços privados, identificando os mais frequentados pelos utilizadores."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Gestão de utilizadores",
+      "text": "Através do Meeting Manager, é possivel consultar o espaço onde um utilizador esteve num determinado momento, bem como restringir o seu acesso."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "title": "Dashboards",
+      "text": "O Meeting Manager fornece perceções estatísticas sobre a ocupação dos espaços, permitindo assim a gestão mais eficiênte dos mesmos."
+    }
+  ]
+}
